@@ -142,4 +142,7 @@ for (let i = 0; i < totalPointsPoss.length; i++) {
 console.log(sum)
 
 // 1st: Learner 125
+let learner125Score = [47, 150];
 
+// 2nd: Learner 132
+let learner132Score = [39, 140];
