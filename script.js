@@ -127,3 +127,6 @@ try {
 
 const learner125 = (LearnerSubmissions[0].learner_id)
 console.log(learner125)
+
+const learner132 = (LearnerSubmissions[3].learner_id)
+console.log(learner132)
