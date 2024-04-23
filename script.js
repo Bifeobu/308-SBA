@@ -125,8 +125,21 @@ try {
 
 // console.log(learner132)
 
+// identifing the learner's id
 const learner125 = (LearnerSubmissions[0].learner_id)
 console.log(learner125)
 
 const learner132 = (LearnerSubmissions[3].learner_id)
 console.log(learner132)
+
+// Finding the average of the score
+let totalPointsPoss = [50, 150];
+let sum = 0
+
+for (let i = 0; i < totalPointsPoss.length; i++) {
+    sum += totalPointsPoss[i];
+}
+console.log(sum)
+
+// 1st: Learner 125
+
