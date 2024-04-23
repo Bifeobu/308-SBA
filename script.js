@@ -143,6 +143,12 @@ console.log(sum)
 
 // 1st: Learner 125
 let learner125Score = [47, 150];
+let sum1 = 0
+
+for (let i = 0; i < learner125Score.length; i++) {
+    sum1 += learner125Score[i];
+}
+console.log(sum1)
 
 // 2nd: Learner 132
 let learner132Score = [39, 140];
