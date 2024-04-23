@@ -151,4 +151,4 @@ for (let i = 0; i < learner125Score.length; i++) {
 console.log(sum1)
 
 // 2nd: Learner 132
-let learner132Score = [39, 140];
+const learner132Score = [39, 140];
