@@ -106,6 +106,7 @@ console.log("===============================")
 
 // let x = (CourseInfo[0] === AssignmentGroup[2])
 
+// try catch to return correct Course ID
 try {
     if (CourseInfo.id === AssignmentGroup.course_id) {
         console.log("Correct!");
@@ -115,3 +116,4 @@ try {
 } catch (error) {
     console.log(error);
 }
+
