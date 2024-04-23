@@ -121,4 +121,6 @@ const learner125 = (LearnerSubmissions[0, 0] || LearnerSubmissions[1, 0] || Lear
 
 console.log(learner125)
 
-const learner132 = (LearnerSubmissions[3, 0] || LearnerSubmissions[4, 0])
+const learner132 = (LearnerSubmissions[3] || LearnerSubmissions[4])
+
+console.log(learner132)
