@@ -117,3 +117,8 @@ try {
     console.log(error);
 }
 
+const learner125 = (LearnerSubmissions[0, 0] || LearnerSubmissions[1, 0] || LearnerSubmissions[2, 0])
+
+console.log(learner125)
+
+const learner132 = (LearnerSubmissions[3, 0] || LearnerSubmissions[4, 0])
