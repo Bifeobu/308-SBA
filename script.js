@@ -157,7 +157,7 @@ console.log(lateAssign)
 const newGrade = (140 - lateAssign);
 console.log(newGrade)
 
-let learner132Score = [39, 140];
+let learner132Score = [39, newGrade];
 let sum2 = 0;
 
 for (let i = 0; i < learner132Score.length; i++) {
