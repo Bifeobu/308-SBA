@@ -151,6 +151,9 @@ for (let i = 0; i < learner125Score.length; i++) {
 console.log(sum1)
 
 // 2nd: Learner 132
+const lateAssign = 150 * (10 / 100);
+console.log(lateAssign)
+
 let learner132Score = [39, 140];
 let sum2 = 0;
 
@@ -158,3 +161,7 @@ for (let i = 0; i < learner132Score.length; i++) {
     sum2 += learner132Score[i];
 }
 console.log(sum2)
+
+// 1st: Learner 125: COME BACK TO THISSSS!
+// const add = (a, b) => a + b
+// console.log(add())
