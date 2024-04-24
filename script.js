@@ -154,6 +154,9 @@ console.log(sum1)
 const lateAssign = 150 * (10 / 100);
 console.log(lateAssign)
 
+const newGrade = (140 - lateAssign);
+console.log(newGrade)
+
 let learner132Score = [39, 140];
 let sum2 = 0;
 
