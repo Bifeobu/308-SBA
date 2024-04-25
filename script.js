@@ -166,6 +166,12 @@ for (let i = 0; i < learner132Score.length; i++) {
 console.log(sum2)
 
 // 1st: Learner 125: COME BACK TO THISSSS!
-const divide = (a, b) => a / b
+const avg = (a, b) => a / b
 
-console.log(divide(sum1, sum) * 100)
+console.log(avg(sum1, sum) * 100)
+
+// 2nd: Learner 132
+const avg2 = (c, d) => {
+    return ((c / d) * 100)
+}
+console.log(avg2(sum2, sum))
