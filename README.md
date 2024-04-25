@@ -1,0 +1,2 @@
+This application used a bit of HTML but majority of JavaScript.
+This code should display different JavaScript methods to come up with 2 learners' id, grade average, different assignment scores, and points possible for those assignments
