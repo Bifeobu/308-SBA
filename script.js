@@ -166,5 +166,6 @@ for (let i = 0; i < learner132Score.length; i++) {
 console.log(sum2)
 
 // 1st: Learner 125: COME BACK TO THISSSS!
-// const add = (a, b) => a + b
-// console.log(add())
+const divide = (a, b) => a / b
+
+console.log(divide(sum1, sum) * 100)
